@@ -1,0 +1,14 @@
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.csproj.AssemblyReference.cache
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfoInputs.cache
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfo.cs
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.csproj.CoreCompileInputs.cache
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.sourcelink.json
+X:\Github-Work\spaceman\spaceman\bin\Debug\netcoreapp2.2\Spaceman.deps.json
+X:\Github-Work\spaceman\spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.json
+X:\Github-Work\spaceman\spaceman\bin\Debug\netcoreapp2.2\Spaceman.runtimeconfig.dev.json
+X:\Github-Work\spaceman\spaceman\bin\Debug\netcoreapp2.2\Spaceman.dll
+X:\Github-Work\spaceman\spaceman\bin\Debug\netcoreapp2.2\Spaceman.pdb
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.dll
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.pdb
+X:\Github-Work\spaceman\spaceman\obj\Debug\netcoreapp2.2\Spaceman.genruntimeconfig.cache
